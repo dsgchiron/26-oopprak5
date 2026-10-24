@@ -1,0 +1,15 @@
+/workspaces/26-oopprak5/bin/Debug/net10.0/26-oopprak5
+/workspaces/26-oopprak5/bin/Debug/net10.0/26-oopprak5.deps.json
+/workspaces/26-oopprak5/bin/Debug/net10.0/26-oopprak5.runtimeconfig.json
+/workspaces/26-oopprak5/bin/Debug/net10.0/26-oopprak5.dll
+/workspaces/26-oopprak5/bin/Debug/net10.0/26-oopprak5.pdb
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.AssemblyInfoInputs.cache
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.AssemblyInfo.cs
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.csproj.CoreCompileInputs.cache
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.sourcelink.json
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.dll
+/workspaces/26-oopprak5/obj/Debug/net10.0/refint/26-oopprak5.dll
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.pdb
+/workspaces/26-oopprak5/obj/Debug/net10.0/26-oopprak5.genruntimeconfig.cache
+/workspaces/26-oopprak5/obj/Debug/net10.0/ref/26-oopprak5.dll
